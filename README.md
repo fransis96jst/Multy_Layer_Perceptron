@@ -13,7 +13,7 @@ $b$ = bias
 $\Delta w_i$ = perubahan bobot ke-i   
 $\Delta b$ = delta bias   
 
-**update bobot ADALINE adalah sebagai berikut:**    
+**Update bobot _ADALINE_ adalah sebagai berikut:**    
 $\Delta w_i = \alpha (t - y) x_i$  
   
 **Rumus pembaruan bobot lengkapnya:**  
