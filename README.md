@@ -22,7 +22,7 @@ $w_i(baru) = w_i(lama) + \Delta w_i$
 
 tes  
   
-<img src="svg/net.svg" width="125">
+<img src="img/net.png">
 
 
 ``wᵢ(baru) = wᵢ(lama) + α × (t − y) × xᵢ``
