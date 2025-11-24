@@ -1,7 +1,9 @@
 # Multy Layer Perceptron
 
 
-**Berdasarkan [modul](https://drive.google.com/file/d/12OBwiae9QWiq0cYHzbycenVTy9cCRnu5/view?usp=sharing) yang berikan, rumus update bobot ADALINE adalah sebagai berikut:**    
+### Berdasarkan [modul](https://drive.google.com/file/d/12OBwiae9QWiq0cYHzbycenVTy9cCRnu5/view?usp=sharing) yang berikan, berikut rumus sederhana yang telah diringkas:
+
+**update bobot ADALINE adalah sebagai berikut:**    
 $\Delta w_i = \alpha (t - y) x_i$
 
 **Keterangan yang ada di modul:**   
