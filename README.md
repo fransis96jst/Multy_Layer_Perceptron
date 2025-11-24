@@ -19,3 +19,10 @@ $w_i(baru) = w_i(lama) + \Delta w_i$
 atau ditulis:  
 $w_i(baru) = w_i(lama) + \alpha . (t - y) . x_i$  
 wᵢ(baru) = wᵢ(lama) + α × (t − y) × xᵢ
+
+$net$ = $\sum(x_i.w_i)+b$   
+
+$$
+net = \sum_{i=1} ^{n} w_i x_i + b
+$$
+
