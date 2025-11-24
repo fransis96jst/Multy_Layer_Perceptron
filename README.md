@@ -27,8 +27,6 @@ $w_i(baru) = w_i(lama) + \Delta w_i$
 <img src="img/net.png">
 
 
-``wᵢ(baru) = wᵢ(lama) + α × (t − y) × xᵢ``
-
 $net$ = $\sum(x_i.w_i)+b$   
 
 <br><hr>
