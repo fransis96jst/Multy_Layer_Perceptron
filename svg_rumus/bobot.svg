@@ -1,0 +1,13 @@
+<!-- file: formula-adaline.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 100" width="600" height="100" role="img" aria-label="Delta w i equals alpha (t minus y) x i">
+  <text x="10" y="60" font-family="serif" font-size="36">
+    <tspan>Δ</tspan>
+    <tspan baseline-shift="sub" font-size="22">w</tspan>
+    <tspan baseline-shift="sub" font-size="22">ᵢ</tspan>
+    <tspan> = </tspan>
+    <tspan>α</tspan>
+    <tspan> (t - y) </tspan>
+    <tspan> x</tspan>
+    <tspan baseline-shift="sub" font-size="22">ᵢ</tspan>
+  </text>
+</svg>
