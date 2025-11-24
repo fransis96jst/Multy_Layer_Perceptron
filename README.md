@@ -22,7 +22,7 @@ $w_i(baru) = w_i(lama) + \Delta w_i$
 
 tes  
   
-> $$net = \sum_{i=1} ^{n} w_i x_i + b$$
+<img src="svg/net.svg" width="125">
 
 
 ``wᵢ(baru) = wᵢ(lama) + α × (t − y) × xᵢ``
