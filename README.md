@@ -26,9 +26,6 @@ $w_i(baru) = w_i(lama) + \Delta w_i$
 
 <img src="img/net.png">
 
-
-$net$ = $\sum(x_i.w_i)+b$   
-
 <br><hr>
 <footer>
    &copy; 2025 Jaringan Saraf Tiruan &bull; @students.utdi.ac.id
