@@ -1,5 +1,6 @@
 # Multyb Layer Perceptron
-   
+
+
 **Berdasarkan modul yang berikan, rumus update bobot ADALINE adalah sebagai berikut:**    
 $\Delta w_i = \alpha (t - y) x_i$
 
@@ -20,8 +21,7 @@ $w_i(baru) = w_i(lama) + \Delta w_i$
 > $$w_i(baru) = w_i(lama) + \alpha . (t - y) . x_i$$  
 >　　　　　　　　　　　└─ $\Delta w_i$    
 
-tes  
-  
+
 <img src="img/net.png">
 
 
@@ -29,3 +29,7 @@ tes
 
 $net$ = $\sum(x_i.w_i)+b$   
 
+<br><hr>
+<footer>
+   &copy; 2025 Jaringan Saraf Tiruan &bull; @students.utdi.ac.id
+</footer>
