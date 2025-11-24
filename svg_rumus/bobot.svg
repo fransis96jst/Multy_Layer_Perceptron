@@ -1,13 +1,24 @@
-<!-- file: formula-adaline.svg -->
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 100" width="600" height="100" role="img" aria-label="Delta w i equals alpha (t minus y) x i">
-  <text x="10" y="60" font-family="serif" font-size="36">
-    <tspan>Δ</tspan>
-    <tspan baseline-shift="sub" font-size="22">w</tspan>
-    <tspan baseline-shift="sub" font-size="22">ᵢ</tspan>
-    <tspan> = </tspan>
-    <tspan>α</tspan>
-    <tspan> (t - y) </tspan>
-    <tspan> x</tspan>
-    <tspan baseline-shift="sub" font-size="22">ᵢ</tspan>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300" height="100" viewBox="0 0 300 100" xmlns="http://www.w3.org/2000/svg" font-family="Segoe UI, Arial, sans-serif" font-size="32" font-weight="500">
+  <text x="20" y="65" fill="#000">net =</text>
+  
+  <!-- Sigma symbol -->
+  <text x="110" y="30" font-size="50" fill="#000">∑</text>
+  
+  <!-- Upper limit n -->
+  <text x="122" y="18" font-size="20" fill="#000">n</text>
+  
+  <!-- Lower limit i=1 -->
+  <text x="115" y="92" font-size="20" fill="#000">i = 1</text>
+  
+  <!-- w_i x_i -->
+  <text x="160" y="65">
+    <tspan fill="#000">w</tspan>
+    <tspan font-size="20" baseline-shift="sub" fill="#000">i</tspan>
+    <tspan fill="#000">x</tspan>
+    <tspan font-size="20" baseline-shift="sub" fill="#000">i</tspan>
   </text>
+  
+  <!-- + b -->
+  <text x="245" y="65" fill="#000">+ b</text>
 </svg>
