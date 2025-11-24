@@ -1,4 +1,4 @@
-# Multyb Layer Perceptron
+# Multy Layer Perceptron
 
 
 **Berdasarkan modul yang berikan, rumus update bobot ADALINE adalah sebagai berikut:**    
