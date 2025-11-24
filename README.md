@@ -20,16 +20,12 @@ $w_i(baru) = w_i(lama) + \Delta w_i$
 > $$w_i(baru) = w_i(lama) + \alpha . (t - y) . x_i$$  
 >　　　　　　　　　　　└─ $\Delta w_i$    
 
-te　　　　　s  
-$$net = \sum_{i=1} ^{n} w_i x_i + b$$
+tes  
+  
+> $$net = \sum_{i=1} ^{n} w_i x_i + b$$
 
 
 ``wᵢ(baru) = wᵢ(lama) + α × (t − y) × xᵢ``
 
 $net$ = $\sum(x_i.w_i)+b$   
 
-<br><br><br>
-│   │   └───modul5
-│   │   │   │   │           multidimensi.php
-│   │   │   │   │
-│   │   │   │   └───Studi kasus
