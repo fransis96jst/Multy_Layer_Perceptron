@@ -17,6 +17,8 @@ $\Delta b$ = delta bias
 $\Delta w_i = \alpha (t - y) x_i$  
   
 **Rumus pembaruan bobot lengkapnya:**  
+<img src="img/delta_wi.png">
+
 $w_i(baru) = w_i(lama) + \Delta w_i$    
 > **atau ditulis:**  
 > $$w_i(baru) = w_i(lama) + \alpha . (t - y) . x_i$$  
